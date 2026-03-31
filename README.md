@@ -52,7 +52,7 @@ Git & GitHub
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Aryan2569/Expense-tracker.git
 
 2. Go to project folder:
 cd expense-tracker
