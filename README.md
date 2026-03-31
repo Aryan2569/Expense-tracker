@@ -1,4 +1,4 @@
-# 💸 Smart Expense Tracker (AIML Project)
+#  Smart Expense Tracker (AIML Project)
 
 Name: Aryan Kumar  
 Registration Number: 25BCE10794  
